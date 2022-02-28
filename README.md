@@ -3,5 +3,5 @@ I have used this techniques at this project ; Api's and Json Parse, singleton de
 Also i have written descriptions near the code lines.
 
 
-![countries_1](https://user-images.githubusercontent.com/93772393/155862472-a563ff7f-2e89-4d2d-bfb2-9f668f75dfd1.gif)
-![Countries_2](https://user-images.githubusercontent.com/93772393/155862475-0acf6add-2a46-4240-bd3c-c21b80a7c916.gif)
+![Countries_1](https://user-images.githubusercontent.com/93772393/155938656-b7883d48-ab2c-410b-b035-6003e5718e16.gif)
+![Countries_2](https://user-images.githubusercontent.com/93772393/155938662-ea4bf253-fd46-45ef-9e45-354fc2c3cf52.gif)
