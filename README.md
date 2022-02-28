@@ -5,6 +5,9 @@ Left one of the gif's first 30 second, Right one of the gif's last 30 second.
 
 
 
-https://user-images.githubusercontent.com/93772393/155939057-afd21503-b8b9-474e-8ef8-0aaf69024869.mov
+
+
+
+https://user-images.githubusercontent.com/93772393/155939182-77bdf993-0ec8-429c-a75a-8dc130be7c9b.mov
 
 
